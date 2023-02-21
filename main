@@ -1,0 +1,6 @@
+结合CNN提升小网络的局部特征捕捉能力
+调研FAVOR+，将复杂度降至线性
+在小模型上先做测试
+softmax和relu之类的函数能否使用MLP做逼近
+RRAM加SRAM
+RRAM和SRAM的仿真工具链，可以看一下Neurosim能不能改一改
